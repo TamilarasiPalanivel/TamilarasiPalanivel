@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TamilarasiPalanivel
+- 👋 Hi, I’m @Tamilarasi Palanivel
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning Artificial Intelligence and doing Projects related to it
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Smart Work and Hard Work are needed
 - 😄 Pronoun
 - ⚡ Fun fact
 - hi hellooo
