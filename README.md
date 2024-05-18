@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence and doing Projects related to it
 - 💞️ I’m looking to collaborate on ...
 - 📫 Smart Work and Hard Work are needed
+- If you improve your Communication skills ,I guarantee you that you will earn fifty percent more money over your life time-Warren Buffett
 - 😄 Pronoun
 - ⚡ Fun fact
 - hi hellooo
