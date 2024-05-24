@@ -2,6 +2,7 @@
     💻AI Enthusiast |🍃Lifelong Learner
   ### About Me
   🎯Passionate about coding and building innovative projects.
+  🎯Passionate in Full Stack Development.
   🎯Currently diving deep into Artificial Intelligence and honing my skills.
   
   ### My Mantra:
