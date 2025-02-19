@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tamilarasi P</h1>
+<h1 align="center">Hi 👋, I'm Tamilarasi Palanivel</h1>
 <h3 align="center">Full Stack Developer</h3>
-
+<h1> 🏆 SIH 2K24 WINNER </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamilarasipalanivel&label=Profile%20views&color=0e75b6&style=flat" alt="tamilarasipalanivel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamilarasipalanivel" alt="tamilarasipalanivel" /></a> </p>
