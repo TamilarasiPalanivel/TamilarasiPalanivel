@@ -21,8 +21,14 @@
 ### 🧠 Connect with me:
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/tamilarasipalanivel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
   <a href="https://leetcode.com/u/TAMILARASIP/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/tamilarasythi/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
   </a>
 </p>
 
