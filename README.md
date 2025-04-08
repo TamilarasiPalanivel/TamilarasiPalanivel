@@ -3,9 +3,6 @@
 
 <h2 align="center">🏆 <strong>SIH 2K24 WINNER</strong> 🏆</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamilarasipalanivel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
