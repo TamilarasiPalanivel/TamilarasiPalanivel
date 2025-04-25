@@ -6,7 +6,7 @@
 ---
 ### About Me!💫
 - 🌱 I’m currently working on **👉 MERN Stack - NestiFy**
-- 💡 Exploring ** Machine Learning **
+- 💡 Exploring **Machine Learning**
 - 🌐 Always curious to learn and collaborate on impactful projects
 
 ---
